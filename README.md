@@ -5,7 +5,7 @@
   <p>
     A free, simple, open-source JSON API for fetching in-game stock and economy data from popular Roblox games.
     <br />
-    <a href="https://stock-apis.vercel.app/"><strong>Visit the Homepage »</strong></a>
+    <a href="https://stocktracker-rbx.netlify.app/"><strong>Visit the Homepage »</strong></a>
     <br /><br />
     <a href="https://rvlt.gg/2f9G59bQ">Report a Bug</a>
     ·
@@ -16,7 +16,7 @@
     <a href="https://github.com/VaryCoolUsername/Grow-A-Garden-API/stargazers"><img src="https://img.shields.io/github/stars/VaryCoolUsername/Grow-A-Garden-API?style=flat-square" alt="Stars"></a>
     <a href="https://github.com/VaryCoolUsername/Grow-A-Garden-API/network/members"><img src="https://img.shields.io/github/forks/VaryCoolUsername/Grow-A-Garden-API?style=flat-square" alt="Forks"></a>
     <a href="https://github.com/VaryCoolUsername/Grow-A-Garden-API/issues"><img src="https://img.shields.io/github/issues/VaryCoolUsername/Grow-A-Garden-API?style=flat-square" alt="Issues"></a>
-    <a href="https://github.com/VaryCoolUsername/Grow-A-Garden-API/blob/main/LICENSE"><img src="https://img.shields.io/github/license/VaryCoolUsername/Grow-A-Garden-API?style=flat-square" alt="License"></a>
+    <a href="https://github.com/VaryCoolUsername/Grow-A-Garden-API/blob/main/Licence.md"><img src="https://img.shields.io/github/license/VaryCoolUsername/Grow-A-Garden-API?style=flat-square" alt="License"></a>
     <a href="https://github.com/VaryCoolUsername/Grow-A-Garden-API/commits/main"><img src="https://img.shields.io/github/last-commit/VaryCoolUsername/Grow-A-Garden-API?style=flat-square" alt="Last Commit"></a>
   </p>
 </div>
