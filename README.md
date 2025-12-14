@@ -2,15 +2,15 @@
   <img src="https://i.ibb.co/tw5xJBJm/minecraft-title.png" alt="Project Logo" width="500">
   <h1>Made by lildanlid</h1>
 
-  <p>
+<p>
     A free, simple, open-source JSON API for fetching in-game stock and economy data from popular Roblox games.
     <br />
-    <a href="https://stocktracker-rbx.netlify.app/"><strong>Visit the Homepage »</strong></a>
     <br /><br />
     <a href="https://rvlt.gg/2f9G59bQ">Report a Bug</a>
     ·
     <a href="https://rvlt.gg/2f9G59bQ">Request a Game</a>
   </p>
+
 
   <p>
     <a href="https://github.com/VaryCoolUsername/Grow-A-Garden-API/stargazers"><img src="https://img.shields.io/github/stars/VaryCoolUsername/Grow-A-Garden-API?style=flat-square" alt="Stars"></a>
@@ -31,9 +31,8 @@ Tired of complex setups or fragile web scraping to get in-game stock data? This 
 - [🔑 Key System](#key-system)
 - [💡 A Note on Performance](#a-note-on-performance)  
 - [🎮 Supported Games](#supported-games)  
-- [🚀 Quick Start](#quick-start)  
-- [📜 License](#license)
-- [🌱 Tracker](#tracker)
+- [📜 License](https://github.com/VaryCoolUsername/Grow-A-Garden-API/blob/main/Licence.md)
+- [🔗 Links](#important-links)
 
 ---
 
@@ -44,16 +43,15 @@ Tired of complex setups or fragile web scraping to get in-game stock data? This 
 - **Live Data** — fetches current in-game stock when requested.  
 - **Free** — no cost to use. (See key system for limits.)  
 - **CORS Enabled** — usable from frontend or backend.  
-- **Open Source** — contributions welcome.  
 - **JSON Responses** — predictable, easy to parse.
 
 <a id="key-system"></a>
 ## 🔑 Key System
 
 This API now requires an API key to protect against mass automated abuse.  
-- Get a key: `https://stockapis.onrender.com/getkey`  
-- View your key, limits and usage: `https://stockapis.onrender.com/key`  
-Keys are bound to your IP and subject to rate limits. Keep your key secret.
+- Get a key: To get a key you will have to vist the dashboard 
+- View your key, limits and usage: ^^^
+Keys are bound to your google account and subject to rate limits. Keep your key secret.
 
 <a id="a-note-on-performance"></a>
 ## 💡 A Note on Performance
@@ -72,15 +70,12 @@ Cold starts and upstream game-server delays can add latency. Design your client 
 
 Don't see your game? [Open an issue](https://rvlt.gg/2f9G59bQ) to request it.
 
-<a id="quick-start"></a>
-## 🚀 Quick Start
+<a id="important-links"></a>
+### Important Links
 
-Request example (url):
-"https://stockapis.onrender.com/api/growagarden/stocks?key=YOUR_KEY"
+* Docs: [https://stockapis.onrender.com/docs](https://stockapis.onrender.com/docs)
+* Terms: [https://stockapis.onrender.com/TOS](https://stockapis.onrender.com/TOS)
+* Privacy: [https://stockapis.onrender.com/PP](https://stockapis.onrender.com/PP)
+* Dashboard: [https://stockapis.onrender.com/dash](https://stockapis.onrender.com/dash)
 
-<a id="tracker"></a>
-## Tracker
-
-[Ive already created a tracker for both games if you would like to use that.
-go here to use it.](https://stocktracker-rbx.netlify.app/)
-
+Updates: [https://rvlt.gg/JfyPFbp4](https://rvlt.gg/JfyPFbp4)
